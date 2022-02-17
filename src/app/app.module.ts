@@ -7,6 +7,7 @@ import { HelloComponent } from './hello.component';
 import { HeaderComponent } from './_shared/header/header.component';
 import { HomeComponent } from './components/home/home.component';
 import { PersonalComponent } from './components/personal/personal.component';
+import { BannerComponent } from './components/banner/banner.component';
 
 @NgModule({
   imports: [BrowserModule, AppRoutingModule, FormsModule],
@@ -16,6 +17,7 @@ import { PersonalComponent } from './components/personal/personal.component';
     HeaderComponent,
     HomeComponent,
     PersonalComponent,
+    BannerComponent,
   ],
   bootstrap: [AppComponent],
 })
