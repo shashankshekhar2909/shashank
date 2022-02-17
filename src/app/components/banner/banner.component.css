@@ -14,3 +14,14 @@
   background: rgba(26, 35, 126, 0.1);
   padding: 10px 20px;
 }
+#home {
+  background-image: url('https://drive.google.com/uc?export=view&id=1vycl3EZMRc5r6EuwCQWgjaryhPsnKIIe');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
+.jumbotron {
+  margin: 0px;
+  background: rgba(106, 96, 101, 0.7);
+}
