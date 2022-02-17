@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .head {
   font-family: 'Roboto', sans-serif;
+}
+.intro {
+  background: rgba(26, 35, 126, 0.1);
+  padding: 10px;
+  border-radius: 10px;
+}
+.heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  background: rgba(26, 35, 126, 0.1);
+  padding: 10px 20px;
 }
