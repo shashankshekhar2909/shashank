@@ -1,0 +1,9 @@
+.time {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 10;
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 20px;
+}

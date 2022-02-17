@@ -7,8 +7,6 @@ import { HelloComponent } from './hello.component';
 import { HeaderComponent } from './_shared/header/header.component';
 import { HomeComponent } from './components/home/home.component';
 import { PersonalComponent } from './components/personal/personal.component';
-import { ProfessionalComponent } from './components/professional/professional.component';
-import { ContactComponent } from './components/contact/contact.component';
 
 @NgModule({
   imports: [BrowserModule, AppRoutingModule, FormsModule],
@@ -18,8 +16,6 @@ import { ContactComponent } from './components/contact/contact.component';
     HeaderComponent,
     HomeComponent,
     PersonalComponent,
-    ProfessionalComponent,
-    ContactComponent,
   ],
   bootstrap: [AppComponent],
 })
